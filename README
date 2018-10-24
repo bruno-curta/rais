@@ -3,3 +3,8 @@ This is a project to access public micro data from RAIS (Annual Social Informati
 In a first step you can download the micro data using the code rais.R
 
 The second part you can run a shiny app to visualize the distribution of stablishments across brazilian states, in a map, using rais_estab_app.R
+
+You can find more information about rais here:
+http://www.rais.gov.br/sitio/index.jsf
+
+Other files used in this project:
